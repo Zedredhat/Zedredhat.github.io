@@ -13,3 +13,7 @@
 Der Joker ist eine fiktive Figur, die überwiegend in Comics des Verlages DC auftritt. 
 Daneben war der Joker auch schon in Romanen, Zeichentrickserien und -filmen, Realdarsteller-Serien und -filmen sowie in Computer- und Konsolenspielen zu sehen, die auf den Comics von DC basieren. 
 Überwiegend ist die Figur als Erzfeind der Comicfigur Batman bekannt. 
+
+Joker-Zitat (englisch):
+
+>We stopped checking for monsters under our bed when we realised they were inside us. 
