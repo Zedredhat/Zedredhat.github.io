@@ -17,3 +17,5 @@ Daneben war der Joker auch schon in Romanen, Zeichentrickserien und -filmen, Rea
 Joker-Zitat (englisch):
 
 >We stopped checking for monsters under our bed when we realised they were inside us. 
+
+<img src="https://cdn.pixabay.com/photo/2016/11/13/22/47/joker-1822273_960_720.jpg"/>
